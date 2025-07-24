@@ -50,6 +50,7 @@ const sponsorCategories: SponsorCategory[] = [
       { id: 'plat15', name: 'True', image: '/sponsorsLogo/true.png' },
       {id:"plat16",name:"Sharp Economy", image:'/sponsorsLogo/SE-Logo.png'},
       {id:"plat17",name:"googleCloud",image:'/sponsorsLogo/google_cloud.png'}
+      {id:"plat18",name:"cssbattles",image:'/sponsorsLogo/css-battles.png'}
     ]
   },
   {
