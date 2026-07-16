@@ -49,7 +49,7 @@ const sponsorCategories: SponsorCategory[] = [
       { id: 'plat14', name: 'Flatlogic', image: '/sponsorsLogo/png-transparent-flatlogic-stacked-logo-tech-companies-thumbnail-removebg-preview.png' },
       { id: 'plat15', name: 'True', image: '/sponsorsLogo/true.png' },
       {id:"plat16",name:"Sharp Economy", image:'/sponsorsLogo/SE-Logo.png'},
-      {id:"plat17",name:"googleCloud",image:'/sponsorsLogo/google_cloud.png'}
+      {id:"plat17",name:"googleCloud",image:'/sponsorsLogo/google_cloud.png'},
       {id:"plat18",name:"cssbattles",image:'/sponsorsLogo/css-battles.png'}
     ]
   },
